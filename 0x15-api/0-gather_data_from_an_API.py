@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Fetch a json file"""
+"""Returns to-do list information for a given employee ID."""
 import requests
 import sys
 
